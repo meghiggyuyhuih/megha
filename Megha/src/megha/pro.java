@@ -6,6 +6,7 @@ public class pro {
 		// TODO Auto-generated method stub
 System.out.println("yjugjk");
 System.out.println("New");
+System.out.println("Old");
 	}
 
 }
